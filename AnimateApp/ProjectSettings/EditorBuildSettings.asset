@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: acdb61d05ad731843a1489d5865d7a88
+  - enabled: 1
+    path: Assets/Scenes/Homepage.unity
+    guid: 9a851817c8f988442b8ed35b3c7ff9e1
+  - enabled: 1
+    path: Assets/Scenes/EsopScene.unity
+    guid: d2159de7908d5694db9aff4778a9eca3
+  - enabled: 1
+    path: Assets/Scenes/SongScene.unity
+    guid: 1d3b14281d97abb4db854a2a93db2841
+  - enabled: 1
+    path: Assets/Scenes/CaptureScene.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/Scenes/DuckSong/DuckSongCapture.unity
+    guid: 4c96220833514864ba89d539c47a87e9
+  - enabled: 1
+    path: Assets/Scenes/DuckSong/DuckSongScene.unity
+    guid: c97a3dd3635452a48a7d64994c26aa0f
+  - enabled: 1
+    path: Assets/Scenes/CrowAndJar/CrowAndJarCapture.unity
+    guid: d60553f733c66b244bee7ef5e8bba7aa
+  - enabled: 1
+    path: Assets/Scenes/CrowAndJar/CrowAndJarScene.unity
+    guid: 3cc20ab4c337a4c4286f1b2089d89ea2
+  - enabled: 1
+    path: Assets/Scenes/RabbitAndTurtle/RabbitAndTurtleCapture.unity
+    guid: 9b522491bc1598c4e832128b21dea9c3
+  - enabled: 1
+    path: Assets/Scenes/RabbitAndTurtle/RabbitAndTurtleScene.unity
+    guid: aae02120495f78249a353a80541bc1aa
+  - enabled: 1
+    path: Assets/Scenes/ThreePigs/ThreePigsCapture.unity
+    guid: f35755b2a405e194ea376d78a5a0f484
+  - enabled: 1
+    path: Assets/Scenes/ThreePigs/ThreePigsScene.unity
+    guid: e4216448f550108468582f4141c12c8e
+  - enabled: 1
+    path: Assets/Test/Scenes/ThreePigCapture.unity
+    guid: c887b711e656e8e44bc061d19121ef08
+  - enabled: 1
+    path: Assets/Test/Scenes/ThreePigScene.unity
+    guid: e08de150a16d1524c819b6dbf516130c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 001be50e91afba040811cff1201ba6fd,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: f277857594b249c4b9b0ceb3a82426d5,
+      type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 2b4598e1098f46b4a877904995f2f163,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 01e828bc504aa134f957db0bfedb3959, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: f8306746154114d4cad8a4945a64a5b2, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f46c5b995ab393f4ca660fa948238aa1,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: f4b81a1454da6ab44bfca4d3a28df886,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cbaef590c3c4ded4f89bc15120b4de9d,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6cb1c6259d707e84190cab89ed9bee9a,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
